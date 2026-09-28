@@ -1,0 +1,1 @@
+Authorized A account remote push proof; disposable E2E fixture.
